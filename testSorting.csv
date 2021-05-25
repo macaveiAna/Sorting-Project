@@ -1,0 +1,14 @@
+Insertion,100,1000,10000,100000
+In Order,0,0,0,0
+Reverse Order,0,0.001,0.102,10.128
+Random Order,0,0,0.05,5.051
+
+Quick Sort,100,1000,10000,100000
+In Order,0,0,0.002,0.023
+Reverse Order,0,0,0.003,0.025
+Random Order,0,0,0.003,0.038
+
+Merge Sort,100,1000,10000,100000
+In Order,0,0.001,0.004,0.043
+Reverse Order,0,0,0.004,0.041
+Random Order,0,0.001,0.004,0.048
